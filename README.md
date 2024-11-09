@@ -8,10 +8,14 @@ For detailed explanations and interactive code, please open the Colab files:
 <br>
 <br>
 <hr>
-![image](https://github.com/user-attachments/assets/c271402e-6845-4793-9839-5d5224363a7f)
+
+![image](https://github.com/user-attachments/assets/c416fd65-ea01-4e90-ab55-abfdadbcb574)
+
 <br>
 Technical View of PID Algorithm for Balancing an Inverted Pendulum
-![image](https://github.com/user-attachments/assets/bf9251c3-a3e8-4eb2-be6b-d2d94ca1fb9e)
+
+![image](https://github.com/user-attachments/assets/2dab9701-82bb-486c-9aec-2c980b42b08e)
+
 
 
 <h1>PID Control Theory for Balancing an Inverted Pendulum</h1>
