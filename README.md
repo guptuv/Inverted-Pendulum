@@ -5,6 +5,9 @@ For detailed explanations and interactive code, please open the Colab files:
 <b><a href="https://colab.research.google.com/github/guptuv/Inverted-Pendulum/blob/main/PID_controller_explorer_.ipynb" target="https://github.com/guptuv/Inverted-Pendulum.git">Open in Colab</a>
 </b>
 <br>
+<br>
+<br>
+<hr>
 ![image](https://github.com/user-attachments/assets/c271402e-6845-4793-9839-5d5224363a7f)
 <br>
 Technical View of PID Algorithm for Balancing an Inverted Pendulum
