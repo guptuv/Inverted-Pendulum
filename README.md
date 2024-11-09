@@ -2,8 +2,8 @@
 Balancing of inverted pendulum done in colab Credits to CMU Videos
 For detailed explanations and interactive code, please open the Colab files:
 
-<a href="https://colab.research.google.com/github/guptuv/Inverted-Pendulum/blob/main/PID_controller_explorer_.ipynb" target="https://github.com/guptuv/Inverted-Pendulum.git">Open in Colab</a>
-
+<b><a href="https://colab.research.google.com/github/guptuv/Inverted-Pendulum/blob/main/PID_controller_explorer_.ipynb" target="https://github.com/guptuv/Inverted-Pendulum.git">Open in Colab</a>
+</b>
 <h1>PID Control Theory for Balancing an Inverted Pendulum</h1>
 
 <p>PID (Proportional-Integral-Derivative) control is a fundamental control theory used in control systems to maintain a desired output, such as speed, position, or temperature, by continuously adjusting inputs based on feedback. A PID controller calculates the error as the difference between a desired setpoint (SP) and a measured process variable (PV). It then applies a correction based on three components: proportional, integral, and derivative terms.</p>
