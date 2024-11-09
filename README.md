@@ -4,6 +4,7 @@ For detailed explanations and interactive code, please open the Colab files:
 
 <b><a href="https://colab.research.google.com/github/guptuv/Inverted-Pendulum/blob/main/PID_controller_explorer_.ipynb" target="https://github.com/guptuv/Inverted-Pendulum.git">Open in Colab</a>
 </b>
+<br>
 ![image](https://github.com/user-attachments/assets/c271402e-6845-4793-9839-5d5224363a7f)
 <br>
 Technical View of PID Algorithm for Balancing an Inverted Pendulum
@@ -54,15 +55,19 @@ Technical View of PID Algorithm for Balancing an Inverted Pendulum
 
 <p>This combination, when well-tuned, enables the controller to keep the pendulum balanced effectively and is commonly used as a foundational example for understanding the power of PID control.</p>
 <br>
+<br>
 Results:
 <hr>
 <b>PController</b>
+<br>
 <img src="Pcontroller-Torque.png" alt="Flowers ">
 <img src="Pcontroller.gif" alt="Description of GIF" width="500"/>
 <img src="PSimulation.gif" alt="Description of GIF" width="500"/>
 <br>
+<br>
 
 <b>PD-Controller</b>
+<br>
 <img src="PDController-Torque.png" alt="Flowers ">
 <img src="PDcotroller.gif" alt="Description of GIF" width="500"/>
 <img src="PDsimulations.gif" alt="Description of GIF" width="500"/>
