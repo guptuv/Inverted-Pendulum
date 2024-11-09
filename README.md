@@ -4,6 +4,12 @@ For detailed explanations and interactive code, please open the Colab files:
 
 <b><a href="https://colab.research.google.com/github/guptuv/Inverted-Pendulum/blob/main/PID_controller_explorer_.ipynb" target="https://github.com/guptuv/Inverted-Pendulum.git">Open in Colab</a>
 </b>
+![image](https://github.com/user-attachments/assets/c271402e-6845-4793-9839-5d5224363a7f)
+<br>
+Technical View of PID Algorithm for Balancing an Inverted Pendulum
+![image](https://github.com/user-attachments/assets/bf9251c3-a3e8-4eb2-be6b-d2d94ca1fb9e)
+
+
 <h1>PID Control Theory for Balancing an Inverted Pendulum</h1>
 
 <p>PID (Proportional-Integral-Derivative) control is a fundamental control theory used in control systems to maintain a desired output, such as speed, position, or temperature, by continuously adjusting inputs based on feedback. A PID controller calculates the error as the difference between a desired setpoint (SP) and a measured process variable (PV). It then applies a correction based on three components: proportional, integral, and derivative terms.</p>
@@ -50,12 +56,13 @@ For detailed explanations and interactive code, please open the Colab files:
 <br>
 Results:
 <hr>
-P-Cotroller 
+<b>PController</b>
 <img src="Pcontroller-Torque.png" alt="Flowers ">
 <img src="Pcontroller.gif" alt="Description of GIF" width="500"/>
 <img src="PSimulation.gif" alt="Description of GIF" width="500"/>
+<br>
 
-PD-Controller
+<b>PD-Controller</b>
 <img src="PDController-Torque.png" alt="Flowers ">
 <img src="PDcotroller.gif" alt="Description of GIF" width="500"/>
 <img src="PDsimulations.gif" alt="Description of GIF" width="500"/>
