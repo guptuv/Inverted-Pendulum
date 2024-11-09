@@ -2,7 +2,7 @@
 Balancing of inverted pendulum done in colab Credits to CMU Videos
 For detailed explanations and interactive code, please open the Colab files:
 
-[![Open In Colab]([https://colab.research.google.com/github/guptuv/Inverted-Pendulum/blob/main/PID_controller_explorer_.ipynb]))]
+<a href="https://colab.research.google.com/github/guptuv/Inverted-Pendulum/blob/main/PID_controller_explorer_.ipynb" target="https://github.com/guptuv/Inverted-Pendulum.git">Open in Colab</a>
 
 <h1>PID Control Theory for Balancing an Inverted Pendulum</h1>
 
