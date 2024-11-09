@@ -16,6 +16,9 @@ Technical View of PID Algorithm for Balancing an Inverted Pendulum
 
 ![image](https://github.com/user-attachments/assets/2dab9701-82bb-486c-9aec-2c980b42b08e)
 
+<br>
+
+![image](https://github.com/user-attachments/assets/6e09f7f3-cd77-431d-bd14-b5793020645e)
 
 
 <h1>PID Control Theory for Balancing an Inverted Pendulum</h1>
