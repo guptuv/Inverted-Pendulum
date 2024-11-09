@@ -6,6 +6,8 @@ For detailed explanations and interactive code, please open the Colab files:
 </b>
 <br>
 <br>
+<b><a href="https://docs.google.com/presentation/d/1OW5NRG2l-jhVLUuS3byE2ZGT-x5NwZGGefeUDVgiC7M/edit?usp=sharing" target="https://github.com/guptuv/Inverted-Pendulum.git">Google Slides</a>
+</b>
 <br>
 <hr>
 
