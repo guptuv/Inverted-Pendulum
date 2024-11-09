@@ -51,7 +51,5 @@ P-Cotroller
 PD-Controller
 <img src="PDController-Torque.png" alt="Flowers ">
 P-Controller
-<video width="640" height="360" controls>
-    <source src="Pcontroller.mp4" type="video/mp4">
-</video>
+<video src="Pcontroller.mp4" controls width="600"></video>
 
