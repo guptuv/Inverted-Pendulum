@@ -52,8 +52,14 @@ Results:
 <hr>
 P-Cotroller 
 <img src="Pcontroller-Torque.png" alt="Flowers ">
+<img src="Pcontroller.gif" alt="Description of GIF" width="500"/>
+<img src="PSimulation.gif" alt="Description of GIF" width="500"/>
+
 PD-Controller
 <img src="PDController-Torque.png" alt="Flowers ">
-P-Controller
-<video src="Pcontroller.mp4" controls width="600"></video>
+<img src="PDcotroller.gif" alt="Description of GIF" width="500"/>
+<img src="PDsimulations.gif" alt="Description of GIF" width="500"/>
+
+
+
 
